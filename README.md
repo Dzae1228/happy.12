@@ -9,7 +9,7 @@
 
 # 高雄的智慧醫療
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ZifoQ9kDPZk" target="_blank"><img src="http://img.youtube.com/vi/ZifoQ9kDPZk/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=uN3WOJqMpHM" target="_blank"><img src="http://img.youtube.com/vi/uN3WOJqMpHM/0.jpg" 
 alt="智慧醫療" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
 <br>
