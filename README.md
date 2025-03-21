@@ -1,13 +1,15 @@
-# Daze1228
+# 網頁連結
+<img src="QR.png" width="200" hieght="200">
 
-<img src="QR.png" width="200" hieght="300">
 
+# 個人介紹
 | 項次 | 項目 | 內容 |
 |-----|------|------|
 |1 | 圖片 |<img src="2025.3.png" width="200" hieght="300">|
 |2 | 姓名 |王耀祥|
 |3 | 職稱 |員工|
 |4 |任職公司 |中油|
+
 
 # 迪納赫預言
 參考 : [https://www.arduino.cc/en/Main/Products](https://www.youtube.com/watch?v=uN3WOJqMpHM)
