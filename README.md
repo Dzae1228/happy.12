@@ -23,6 +23,12 @@
 他的頻道內容不僅富有教育意義，還有許多娛樂性，吸引了來自全球的觀眾，尤其是對神秘學、科學和歷史有興趣的群體。
 </details>
 
+<details>
+<summary>
+
+## 老高影片推薦
+
+</summary>
 # 迪納赫預言
 參考 : [https://www.arduino.cc/en/Main/Products](https://www.youtube.com/watch?v=uN3WOJqMpHM)
 
@@ -30,3 +36,5 @@
 alt="迪納赫預言" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
 <br>
+</details>
+
