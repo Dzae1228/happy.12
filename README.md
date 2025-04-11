@@ -13,7 +13,7 @@
 <details>
 <summary>
 
-## 老高介紹
+# 老高介紹
 
 </summary>
 老高（本名：高啟強）是YouTube上的一位中文創作者，以分享各種神秘、奇特、未解之謎以及歷史、科學相關的內容聞名。他的頻道主要介紹一些世界上奇怪的事件、未解的謎團、奇異的自然現象、外星人、古代文明等主題，並且以深入淺出的方式進行講解。
@@ -26,11 +26,11 @@
 <details>
 <summary>
 
-## 老高影片推薦
+# 老高影片推薦
 
 </summary>
 
-# 迪納赫預言
+## 迪納赫預言
 參考 : [https://www.arduino.cc/en/Main/Products](https://www.youtube.com/watch?v=uN3WOJqMpHM)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=uN3WOJqMpHM" target="_blank"><img src="http://img.youtube.com/vi/uN3WOJqMpHM/0.jpg" 
@@ -38,7 +38,7 @@ alt="迪納赫預言" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
 <br>
 
-# 圈量子重力理論
+## 圈量子重力理論
 參考 : [https://www.youtube.com/watch?v=vrA6287NT-I](https://www.youtube.com/watch?v=vrA6287NT-I)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=vrA6287NT-I" target="_blank"><img src="http://img.youtube.com/vi/vrA6287NT-I/0.jpg" 
