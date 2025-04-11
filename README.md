@@ -38,8 +38,8 @@ alt="迪納赫預言" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
 <br>
 
-# 迪納赫預言
-參考 : [https://www.arduino.cc/en/Main/Products](https://www.youtube.com/watch?v=vrA6287NT-I)
+# 圈量子重力理論
+參考 : [https://www.youtube.com/watch?v=vrA6287NT-I](https://www.youtube.com/watch?v=vrA6287NT-I)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=vrA6287NT-I" target="_blank"><img src="http://img.youtube.com/vi/vrA6287NT-I/0.jpg" 
 alt="迪納赫預言" width="400" height="250" border="10" /></a>
